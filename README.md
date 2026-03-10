@@ -7,6 +7,9 @@
     - Seraphine Kartolo - 2802526100
     - Muhammad Rafi Bagaskara - 2802510185
 
+# Description
+This is a docker collaboration project consisting a SSTI debug web to learn basic web exploitation.
+
 # Using docker step by step
 Download the code from GitHub:
 ```bash
